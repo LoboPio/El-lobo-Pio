@@ -17,7 +17,7 @@ Proyecto de Creación Multimedia Interactiva, Facultad de Bellas Artes Universid
 
 **Logotipo**: 
 
-![foto1](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/foto1.png)
+![foto1](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/foto1.PNG)
 
 Este logotipo que he creado representa el protagonista del proyecto, el lobo Pio en un círculo en forma de botón. La idea que quería transmitir con este diseño era que el público reconociera el proyecto y también que parezca que puedes pulsar encima del logotipo y que de esta manera empiece la historia. 
 

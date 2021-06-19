@@ -7,7 +7,7 @@ Proyecto de Creación Multimedia Interactiva, Facultad de Bellas Artes Universid
 
 **TÍTULO**: LOBO PIO
 
-**WEB**: https://LoboPio.github.io
+**WEB**: https://LoboPio.github.io/proyectolobo.html
 
 **AUTOR**: Antonia Pujol Miralles
 

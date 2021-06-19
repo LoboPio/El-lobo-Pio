@@ -38,23 +38,22 @@ Github:
 ## MEMORIA DEL PROYECTO
 
 **Storyboard**:
-(meter 3-4 imágenes de apoyo en carpeta antonia capturas de pantalla)
 
 Este proyecto empieza con esta introducción que aporta varias opciones que puedes elegir. Todas ellas contienen diferente información sobre el cuento de El lobo Pio del proyecto, pero la parte más importante es el apartado de Historia.
 
-Foto
+![pantalla1](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/pantalla1.png)
 
 La historia empieza con la presentación de los personajes principales y el planteamiento del problema del cuento.
 
-Foto
+![pantalla2](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/pantalla2.png)
 
 La trama se basa en la decisión del erizo Punzón, el personaje tiene que averiguar si prefiere vivir en el campo o en la ciudad, a través de la ayuda de sus dos nuevos amigos y también de la gata Mandra de la ciudad.
 
-Foto
+![pantalla3](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/pantalla3.png)
 
 Finalmente, el/la niño/a que participa en esta historia elige el desenlace que prefiere para terminar con la decisión de los personajes. Las dos opciones que pueden elegir serán el campo o la ciudad.
 
-Foto
+![pantalla4](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/pantalla4.png)
 
 **Esquema de navegación**:
 

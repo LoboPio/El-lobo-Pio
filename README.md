@@ -57,7 +57,7 @@ Finalmente, el/la niño/a que participa en esta historia elige el desenlace que 
 
 **Esquema de navegación**:
 
-Poner foto
+![esquema](https://raw.githubusercontent.com/LoboPio/El-lobo-Pio/main/esquema.jpg)
 
 ## METODOLOGÍA
 

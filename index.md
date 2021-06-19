@@ -7,7 +7,7 @@ Proyecto de Creación Multimedia Interactiva, Facultad de Bellas Artes Universid
 
 **TÍTULO**: LOBO PIO
 
-**WEB**: https://github.com/LoboPio
+**WEB**: https://LoboPio.github.io
 
 **AUTOR**: Antonia Pujol Miralles
 
@@ -33,7 +33,7 @@ Este logotipo que he creado representa el protagonista del proyecto, el lobo Pio
 
 **Medios (donde se tiene presencia relacionada)**:
 
-Github:
+Github
 
 ## MEMORIA DEL PROYECTO
 
